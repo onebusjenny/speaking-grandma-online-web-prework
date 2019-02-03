@@ -1,3 +1,17 @@
+whatever = "I can hear you"
+
+if speak_to_grandma == "whatever".upcase
+  Return "huh?! speak up, sonny!".upcase
+elsif speak_to_grandma == "kind of"
+  puts "no, not since 1938!".upcase
+elsif speak_to_grandma == ""
+else 
+  
+
+
+
+
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
