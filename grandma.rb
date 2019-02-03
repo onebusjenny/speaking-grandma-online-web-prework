@@ -1,4 +1,4 @@
-whatever = "I can hear you"
+
 
 if me == "normal voice".upcase
   return "huh?! speak up, sonny!".upcase
