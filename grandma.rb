@@ -1,10 +1,11 @@
 whatever = "I can hear you"
 
-if speak_to_grandma == "whatever".upcase
-  Return "huh?! speak up, sonny!".upcase
-elsif speak_to_grandma == "kind of"
-  puts "no, not since 1938!".upcase
-elsif speak_to_grandma == ""
+if me == "normal voice".upcase
+  return "huh?! speak up, sonny!".upcase
+elsif me == "shout".upcase
+  return "no, not since 1938!".upcase
+elsif me == "I love you grandma".upcase
+  
 else 
   
 
