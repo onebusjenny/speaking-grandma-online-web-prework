@@ -5,9 +5,9 @@ if me == "normal voice".upcase
 elsif me == "shout".upcase
   return "no, not since 1938!".upcase
 elsif me == "I love you grandma".upcase
-  
+  return "I lovce you too pumpkin!".upcase
 else 
-  
+  puts "I will just ignore you"
 
 
 
